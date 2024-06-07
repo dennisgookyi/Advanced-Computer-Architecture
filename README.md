@@ -9,6 +9,6 @@ Textbooks:
 
 Some of the Textbooks can be found here: https://github.com/dennisgookyi/comp_arch_list/tree/master/books.
 
-Lecture videos can be found here:
+Lecture videos can be found here: https://www.youtube.com/playlist?list=PLPO0UeWHqx55bXsYBvWZ_-0ETrfZQYsdJ
 
 Old Lecture videos can be found here: https://www.youtube.com/playlist?list=PLPO0UeWHqx569gH7j5xTK0oboks_-JT6G.
